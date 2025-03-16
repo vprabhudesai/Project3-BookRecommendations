@@ -1,6 +1,6 @@
 # AI Book Recommendation System
 
-A semantic search and recommendation system that helps users discover books based on their specific interests, using natural language processing and AI-generated summaries.
+A semantic search and recommendation system that helps users discover books based on their specific interests, using a dataset from <<GoodReads>> natural language processing and AI-generated summaries.
 
 ## Overview
 
