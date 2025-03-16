@@ -56,6 +56,10 @@ This project combines the power of sentence transformers for semantic understand
 - **python-dotenv**: Library for loading environment variables
   - Used for secure API key management
   - Prevents credentials from being stored in the code
+ 
+### Presentation Development
+
+ - **Gamma**: AI powered presentations and images from outline/prompt
 
 ## Data Preprocessing
 
@@ -257,12 +261,7 @@ The project features a polished, user-friendly interface built with Gradio that 
 
 - **Example Queries**: Quick-access buttons for popular search types
 - **Genre Explorer**: Categorized lists of genres with brief descriptions
-- **About Section**: Project information and acknowledgments
-- **Responsive Design**: Adapts to different screen sizes
-- **Visual Enhancements**: 
-  - Custom theme with soft indigo color scheme
-  - Strategic use of emoji and markdown formatting
-  - Clear visual hierarchy and organized layout
+
 
 ### Technical Implementation
 
@@ -414,6 +413,7 @@ ai-book-recommendation/
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## Contact
+Vassudeo Prabhudesai and Jill Balderson
 
 
 
