@@ -1,10 +1,13 @@
 # AI Book Recommendation System
 
-A semantic search and recommendation system that helps users discover books based on their specific interests, using a dataset from <<GoodReads>> natural language processing and AI-generated summaries.
+A semantic search and recommendation system that helps users discover books based on their specific interests, using a dataset from [**GoodReads**](https://www.kaggle.com/datasets/mdhamani/goodreads-books-100k/data), natural language processing and AI-generated summaries.
 
 ## Overview
 
 This project combines the power of sentence transformers for semantic understanding with Google's Gemini AI for natural language generation to create an intelligent book recommendation engine. Users can describe their interests in natural language, and the system will find and present relevant books with beautifully formatted summaries.
+
+## Presentation
+[Beyond Keywords: Semantic Search for Literary Exploration](https://docs.google.com/presentation/d/1nKm9c0ns3QdyMI1paktGKJS5YdN47fc0lPe3gPaRLRI/edit#slide=id.p1)
 
 ## Features
 
