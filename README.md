@@ -163,6 +163,68 @@ final_score = (
     (normalized_popularity * 0.2)
 )
 ```
+## Examples of Scoring Formula
+
+### Genre - Aircraft
+### Query - The Invention of Airplanes
+
+1. **BOOK 2463:**
+  - Title: Aircraft of World War II
+  - Author: Jim Winchester
+  - Rating: 4.48 out of 5 (based on 25 ratings)
+  - Similarity to query: 0.44
+
+2. **BOOK 75033:**
+  - Title: World's Greatest Aircraft
+  - Author: Christopher Chant
+  - Rating: 4.45 out of 5 (based on 40 ratings)
+  - Similarity to query: 0.41
+
+3. **BOOK 63679:**
+  - Title: The Complete Encyclopedia of World Aircraft
+  - Author: Soph Moeng
+  - Rating: 4.7 out of 5 (based on 10 ratings)
+  - Similarity to query: 0.43
+
+4. **BOOK 83158:**
+  - Title: The Ransom of Black Stealth One
+  - Author: Dean Ing
+  - Rating: 3.83 out of 5 (based on 180 ratings)
+  - Similarity to query: 0.43
+
+### Genre - Basketball
+### Query - Michael Jordan Era
+
+1. **BOOK 46035:**
+  - Title: Dream Team: How Michael, Magic, Larry, Charles, and the Greatest Team of All Time Conquered the World and Changed the Game of Basketball Forever
+  - Author: Jack McCallum
+  - Rating: 4.2 out of 5 (based on 11375 ratings)
+  - Similarity to query: 0.59
+
+2. **BOOK 92137:**
+  - Title: For the Love of the Game: My Story
+  - Author: Michael Jordan,Mark Vancil
+  - Rating: 4.2 out of 5 (based on 647 ratings)
+  - Similarity to query: 0.60
+
+3. **BOOK 92133:**
+  - Title: Michael Jordan
+  - Author: Coleen Lovitt,Coleen Lovitt
+  - Rating: 4.32 out of 5 (based on 276 ratings)
+  - Similarity to query: 0.61
+
+4. **BOOK 92129:**
+  - Title: I Can't Accept Not Trying: Michael Jordan on the Pursuit of Excellence
+  - Author: Michael Jordan,Sandro Miller
+  - Rating: 4.18 out of 5 (based on 683 ratings)
+  - Similarity to query: 0.55
+
+5. **BOOK 12558:**
+  - Title: The Whore of Akron: One Man's Search for the Soul of LeBron James
+  - Author: Scott Raab
+  - Rating: 3.8 out of 5 (based on 1097 ratings)
+  - Similarity to query: 0.53
+
 
 ### Performance Optimization
 
